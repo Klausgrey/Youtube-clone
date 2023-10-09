@@ -1,0 +1,111 @@
+      p
+      {
+        font-family: Roboto, Arial;
+        margin-top: 0px;
+        margin-bottom: 0px;
+      }
+      .img1
+      {
+        display: block;
+        width: 100%;
+        margin-right: 100px;
+      }
+      .text1
+      {
+        margin-top: 0px;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 20px;
+        margin-bottom: 15px;
+      }
+      .text1b
+      {
+        margin-top: 0px;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 20px;
+        margin-bottom: 15px;
+      }
+
+      .text2
+      {
+        font-size: 14px;
+        color: rgb(96, 96, 96);
+        margin-bottom: 5px;
+      }
+      .text2b
+      {
+        font-size: 14px;
+        color: rgb(96, 96, 96);
+        margin-bottom: 5px;
+      }
+
+      .text3
+      {
+        font-size: 14px;
+        color: rgb(96, 96, 96);
+      }
+      .text3b
+      {
+        font-size: 14px;
+        color: rgb(96, 96, 96);
+      }
+      .video-preview
+      {
+        width: 300px;
+        display: inline-block;
+        vertical-align: top;
+        margin-right: 10px;
+      }
+
+      .search-bar
+      {
+        display: block;
+      }
+
+      .channel-text
+      {
+        display: inline-block;
+        width: 200px;
+      }
+      .channel-text2
+      {
+        display: inline-block;
+        width: 200px;
+      }
+
+
+      .channel-dp 
+      {
+        display: inline-block;
+        width: 50px;
+        vertical-align: top;
+      }
+      .channel-dp2
+      {
+        display: inline-block;
+        width: 50px;
+        vertical-align: top;
+      }
+
+
+      .profile-pic
+      {
+        width: 45px;
+        border-radius: 50px;
+      }
+      .profile-pic2
+      {
+        width: 45px;
+        border-radius: 50px;
+      }
+
+
+      .first-layer
+      {
+        margin-bottom: 20px;
+      }
+      .first-layer2
+      {
+        margin-bottom: 20px;
+      }
